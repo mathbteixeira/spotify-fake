@@ -1,2 +1,24 @@
 # spotify-fake
-Projeto VueJS clone da interface do Spotify PWA, feito ao longo da vídeo-aula https://www.youtube.com/watch?v=TwVCg_1ejCo
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
